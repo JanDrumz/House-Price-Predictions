@@ -1,7 +1,9 @@
-# House-Price-Predictions
-This is a test video of how to create your first repository.
+# <h1 align="center">House-Price-Predictions</h1>
+## <p align="center">This is a test video of how to create your first repository</p> 
 
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAQJrt_t97rdkHyl9wUuiSDRfTMwGyBNoLHg&usqp=CAU)
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAQJrt_t97rdkHyl9wUuiSDRfTMwGyBNoLHg&usqp=CAU" alt="Photos of Houses">
+</p>
 
 In the next five years, the US housing market is predicted to experience a slowdown, with prices either flat or experiencing a modest decline. According to a report by Zillow, home values are projected to increase by 5.5% over the next year, slower than the 16.9% increase seen in 2021.
 
