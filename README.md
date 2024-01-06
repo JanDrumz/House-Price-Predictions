@@ -1,5 +1,5 @@
 # <h1 align="center">House-Price-Predictions</h1>
-## <p align="center">This is a test video of how to create your first repository</p> 
+## <p align="center">This is a test of how to create your first repository</p> 
 
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAQJrt_t97rdkHyl9wUuiSDRfTMwGyBNoLHg&usqp=CAU" alt="Photos of Houses">
